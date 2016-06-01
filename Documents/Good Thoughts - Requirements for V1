@@ -1,0 +1,43 @@
+Good Thoughts (Web & iOS App) - Requirements for Version 1
+	JuanCarlos - Edited 6-1-2016;
+
+High Priority:
+	- Version Control
+		- Set up Git
+	- Software Engineering - Agile Development
+		- Configure Git with Jira
+	- Backend/Database
+		- Google Firebase - Set up account/ Configure with Project
+	- Sign In/ Sign Up
+		- Use facebook profiles to sign in and up Users. [Firebase has build it capabilities];
+		- Should we even sign up users?
+			- Maybe Only to Comment & Vote
+			- Implement in V2?
+	- Data Structure for "Thought" / message.
+		- Built a JSON sturcture to see how and what data needs to be stored.
+	- Mobile Version
+		- Determine gestures that could be used with App;
+		- Scalability issues with different devices?
+	- Creating 3D Model vs 2D animations
+		- decision on wheter to 3d animate this 
+			- https://www.script-tutorials.com/how-to-create-3d-canvas-object-in-html5/
+	- Get/Put/Post/Delete Functions to Firebase
+		- Get -> To fetch a random status. 
+		- Put -> Comments/Upvote/Downvote
+		- Post -> Send Thoughts into world.
+		- Delete -> If "Thought" receives more than 10 downvotes, erase.
+	- Index.html
+		- Have some model working.
+
+
+Medium Priority:
+	- WorkFlow Diagram
+		- Diagram with draw.io a flow diagram of interactions with app.
+	- Desktop Version
+		- This will be implemented with version 2, but taken into consideration while developing V1;
+
+Low Priority:
+	- Color Scheme of App
+	- Information Acheictecture of "Thought" models;
+		- Photoshop Mockups
+
