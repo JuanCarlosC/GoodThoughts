@@ -1,0 +1,56 @@
+{
+	"thought" : {
+		"title": "limited to 15 char.",
+		"message" : "This is the message that is limited to 150 char.",
+		"votes": {
+			"up": 0,
+			"down": 0
+		},
+		"orgin" : "Los Angeles",
+		"checkedOut" : false,
+		"created" : "2009-02-15T00:00:00Z",
+		"user" : "Anonymous",
+		"userId" : "mmcasd465",
+		"tags" : ["Funny", "Inspiriing", "NSFW"],
+		"comments" : [{
+				"user" : "Jimmy Hendricks",
+				"userId" : "Jimmy12355asd54",
+				"orgin" : "Tokyo",
+				"votes": {
+					"up": 0,
+					"down": 0
+				},
+				"created" : "2009-02-15T00:00:00Z",
+				"message" : "This is a comment message. limited to 150 char."
+			},
+			{
+				"user" : "Jimmy Hendricks",
+				"userId" : "Jimmy12355asd54",
+				"orgin" : "Tokyo",
+				"votes": {
+					"up": 0,
+					"down": 0
+				},
+				"created" : "2009-02-15T00:00:00Z",
+				"message" : "This is a comment message. limited to 150 char."
+			},
+			{
+				"user" : "Jimmy Hendricks",
+				"userId" : "Jimmy12355asd54",
+				"orgin" : "Tokyo",
+				"votes": {
+					"up": 0,
+					"down": 0
+				},
+				"created" : "2009-02-15T00:00:00Z",
+				"message" : "This is a comment message. limited to 150 char."
+			}],
+		"metadata" : {
+			"OS" : "iOS 9.4.1",
+			"Device" : "iPhone",
+			"IP" : "uknown",
+			"ServiceProvider" : "AT&T"
+		}
+
+	}
+}	
